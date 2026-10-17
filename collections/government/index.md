@@ -1,4 +1,4 @@
----
+---index.md
 items:
  - 18F/development-guide
  - cfpb/open-source-checklist
